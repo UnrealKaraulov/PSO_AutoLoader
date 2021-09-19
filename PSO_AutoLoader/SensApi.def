@@ -1,0 +1,5 @@
+LIBRARY SensApi
+EXPORTS
+	IsDestinationReachableA=fIsDestinationReachableA @1
+	IsDestinationReachableW=fIsDestinationReachableW @2
+	IsNetworkAlive=fIsNetworkAlive @3
